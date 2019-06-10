@@ -1,0 +1,15 @@
+{
+  "title": "The test data schema",
+  "type": "object",
+  "required": [
+    "userCount"
+  ],
+  "properties": {
+    "userCount": {
+      "type": "number",
+      "notEmpty": true,
+      "minimum": 1,
+      "maximum": 1000000
+    }
+  }
+}

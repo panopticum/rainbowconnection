@@ -1,0 +1,11 @@
+{
+  "name": "Rainbowconnection API",
+  "description": "REST API documentation for Rainbowconnection APP",
+  "title": "Rainbowconnection API",
+  "url": "/",
+  "template": {
+    "forceLanguage": "en",
+    "withCompare": true,
+    "withGenerator": true
+  }
+}

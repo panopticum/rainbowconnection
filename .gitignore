@@ -1,0 +1,17 @@
+# Logs
+*.log
+logs
+logs/*
+
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# Intellij Idea files
+.idea
+*.iml
+
+# Doc
+doc/*
