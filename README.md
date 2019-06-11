@@ -8,3 +8,4 @@
 * Execute sql statements from the file `rainbowconnection/resources/schemas.sql`
 * Install dependencies `npm i`
 * Start the app `npm run start`
+
